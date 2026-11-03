@@ -1,0 +1,4 @@
+<resources>
+    <style name="LaunchTheme" parent="android:style/Theme.Material.Light.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:colorAccent">#E85C5C</item></style>
+    <style name="NormalTheme" parent="android:style/Theme.Material.Light.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:colorAccent">#E85C5C</item></style>
+</resources>

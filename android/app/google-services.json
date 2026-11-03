@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "590411182335",
+    "firebase_url": "https://muslim-d9113-default-rtdb.firebaseio.com",
+    "project_id": "muslim-d9113",
+    "storage_bucket": "muslim-d9113.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590411182335:android:7dc604c158edaaea755cca",
+        "android_client_info": { "package_name": "com.ahmed.app" }
+      },
+      "oauth_client": [
+        { "client_id": "590411182335-oilpdl5q3ppvla77ektve4bvmehcl0bh.apps.googleusercontent.com", "client_type": 3 }
+      ],
+      "api_key": [
+        { "current_key": "AIzaSyDWvFBfGzhfCGAMalgzcRCRj_48L8m_CVk" }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            { "client_id": "590411182335-oilpdl5q3ppvla77ektve4bvmehcl0bh.apps.googleusercontent.com", "client_type": 3 }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
